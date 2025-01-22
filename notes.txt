@@ -1,0 +1,9 @@
+http://localhost:11434/api/generate -api for generating the data
+{
+  "model": "llama3.2",
+  "prompt": "Do you know my name",
+  "stream":true 
+}
+
+
+postman prompt 
